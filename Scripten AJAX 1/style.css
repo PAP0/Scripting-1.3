@@ -1,0 +1,9 @@
+
+body {
+    background-color: #262626;
+    border-radius: 30px;
+    margin: auto;
+    width: 50%;
+    height: 30em;
+    box-sizing: border-box;
+  }
